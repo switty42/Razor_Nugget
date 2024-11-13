@@ -5,7 +5,7 @@ Docs 11-11-24 V1 (For questions or comments:  Stephen Witty switty@level500.com)
 This project seeks to measure the ability of ChatGPT to evaluate the quality of Razorback nuggets from Tyson Foods.  GPT acts as quality control engineer while scoring the quality of nuggets by picture.  Statistics are kept over many tests.  Sample results can be found in the below presentation along with a video with a sample execution.
   
 
-<img src="Pics/Razor Bag.jpg" width="400">
+<img src="Pics/Razor Bag.jpg" width="200">
 
 ### Reports / Documentation:
 - A presentation that covers the project can be found below:
