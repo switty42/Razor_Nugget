@@ -12,7 +12,8 @@ This project seeks to measure the ability of ChatGPT to evaluate the quality of 
 - [Presentation Link](https://github.com/switty42/Razor_Nugget/blob/main/Presentations/Razor_Nugget.pdf)
 - Example run recorded:
 - [Video](https://youtu.be/SLt81ro5DME)
-
+- AI meetup presentation 042225
+- [Video](https://youtu.be/zJKL8Hg61-Q)
 
 ### Usage:
 
